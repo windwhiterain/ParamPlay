@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ParamPlay",
+	"Description": "Geometry PCG focus on parameterization",
+	"Category": "Other",
+	"CreatedBy": "whitingyan",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ParamPlay",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
